@@ -86,10 +86,10 @@ export const CONTENT = {
     gallery: {
       title: "تصویری خاکہ",
       items: [
-        { title: "جامع مسجد (Pictorial View)", img: "https://picsum.photos/seed/mosque-multan/1200/800" },
-        { title: "نیو ہاسٹل (New Hostel)", img: "https://picsum.photos/seed/hostel-multan/1200/800" },
-        { title: "اساتذہ کی رہائش گاہیں (Staff Residences)", img: "https://picsum.photos/seed/residence-multan/1200/800" },
-        { title: "کلاسز (Classes)", img: "https://picsum.photos/seed/classes-multan/1200/800" },
+        { title: "جامع مسجد (Pictorial View)", img: "/mosque.jpg" },
+        { title: "نیو ہاسٹل (New Hostel)", img: "/hostel.jpg" },
+        { title: "اساتذہ کی رہائش گاہیں (Staff Residences)", img: "/residence.jpg" },
+        { title: "کلاسز (Classes)", img: "/classes.jpg" },
       ],
     },
   },
